@@ -1,0 +1,23 @@
+#!/bin/bash
+
+echo
+echo -e "\e[1;37mAUTHOUR NAME : \e[1;4;91mAnonUser\e[0m"
+echo -e
+
+echo -e "\e[1;37mTOOL NAME : \e[1;4;91mADB-Toolkit\e[0m"
+echo -e
+
+echo -e "\e[1;37mDATE : \e[1;91m13/04/2020\e[0m"
+echo -e
+
+echo -e "\e[1;37mGITHUB : \e[1;91mhttps://github.com/JayKotadia\e[0m"
+echo -e
+
+echo -e "\e[1;37mNOTE : \e[1;91mPlease DON'T USE FOR WRONG INTENSION just USE FOR EDUCATIONAL PURPOSE Only.\e[0m"
+echo -e
+
+echo -e "\e[1;37mWRITTEN LANGUAGE : \e[1;91mBASH\e[0m"
+echo
+echo
+echo
+bash modules/funtion.sh
